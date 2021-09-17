@@ -1,0 +1,52 @@
+body {
+  background-image: url("../../assets/img/hero-bg.png");
+  /*background-color: var(--bs-white);*/
+  font-family: 'Sora';
+}
+
+#avatar {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 35px;
+}
+
+#hireMe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: limegreen;
+}
+
+#moreInfo {
+  background-image: url("../../assets/img/Fade-In-Background.svg");
+}
+
+#skills {
+  background-image: url("../../assets/img/Fade-In-Background.svg");
+}
+
+#project-body {
+  background-image: url("../../assets/img/Fade-In-Background.svg");
+}
+
+#works-cont {
+  margin-top: 200px;
+}
+
+#project-heading {
+  margin-top: 200px;
+}
+
+#project-item {
+  margin-top: 100px;
+}
+
+#project-footer {
+  margin-top: 100px;
+}
+
+#situalcave-card-body {
+  background-color: transparent;
+}
+

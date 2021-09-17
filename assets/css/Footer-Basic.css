@@ -1,0 +1,125 @@
+.footer-basic {
+  padding: 40px 0;
+  background-color: #ffffff;
+  color: #4b4c4d;
+}
+
+.footer-basic ul {
+  padding: 0;
+  list-style: none;
+  text-align: center;
+  font-size: 18px;
+  line-height: 1.6;
+  margin-bottom: 0;
+}
+
+.footer-basic li {
+  padding: 0 10px;
+}
+
+.footer-basic ul a {
+  color: inherit;
+  text-decoration: none;
+  opacity: 0.8;
+}
+
+.footer-basic ul a:hover {
+  opacity: 1;
+}
+
+.footer-basic .social {
+  text-align: center;
+  padding-bottom: 25px;
+}
+
+.footer-basic .social > a {
+  font-size: 24px;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  display: inline-block;
+  text-align: center;
+  border-radius: 50%;
+  border: 1px solid #ccc;
+  margin: 0 8px;
+  color: inherit;
+  opacity: 0.75;
+}
+
+.footer-basic .social > a:hover {
+  opacity: 0.9;
+}
+
+.footer-basic .copyright {
+  margin-top: 15px;
+  text-align: center;
+  font-size: 13px;
+  color: #aaa;
+  margin-bottom: 0;
+}
+
+#work-ex-h1 {
+  margin-top: 115px;
+}
+
+span {
+  float: right;
+}
+
+section {
+  margin-left: 35px;
+  margin-right: 35px;
+}
+
+#work-experience-2 {
+  margin-top: 32px;
+}
+
+#intro {
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+#bio-data {
+  margin-left: 121px;
+  margin-right: 201px;
+}
+
+#bio-span {
+  float: left;
+}
+
+.fa.fa-user {
+  font-size: 25px;
+  float: right;
+}
+
+.fa.fa-birthday-cake {
+  float: right;
+  font-size: 25px;
+}
+
+.fa.fa-home {
+  margin-left: 25px;
+  margin-top: 26px;
+  /*float: left;*/
+  font-size: 41px;
+}
+
+#contact {
+  background-image: url("../../assets/img/Animated%20Shape.svg");
+}
+
+button {
+  color: limegreen;
+}
+
+.fa.fa-star {
+  margin-top: 27px;
+  margin-left: 46px;
+}
+
+a {
+  text-decoration: none;
+}
+
